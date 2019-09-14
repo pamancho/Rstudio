@@ -38,14 +38,15 @@ Rstuio = A & a son distintos (por la mayuscula)
 -a/b  
 
 condicionantes: funciones que acruan bajo condiciones(true/false)
--if(condicion1) = si la condicion es verdader se hace algo y si es falsa no hace nada. if(x>y||w>m){print("holamundo")} 
-en el caso que sea falso, existe el if-else: se encarga de tomar todo lo que ocupo en la condicion del if.(los vlores que no cumplen la condición).
+if(condicion1) = si la condicion es verdader se hace algo y si es falsa no hace nada.en el caso que sea falso, existe el if-else: se encarga de tomar todo lo que ocupo en la condicion del if.(los vlores que no cumplen la condición). 
+
+-if(x>y||w>m){print("holamundo")} 
+
 
 -else=  if(condicion1){print(resultado)
         }else{
         (condicion2)
         }
-
 -elevar al cuadrado= 2*x**2 || 2*x^2
 
 reseta de diseño: desripcion de que queremos hacer, por ejm tenemos una funcion que entrega el doble de x si x>0 (son los gatos: funcion,como se lee y ejm).
@@ -59,6 +60,8 @@ tipos de datos:
 -booleans(boolean): true o false.
 -carácter(char): a,b,c....etc.
 -texto(string): "hola mundo". 
+
+tarea: grepl:
 
 
 
